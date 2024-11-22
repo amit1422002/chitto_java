@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1089648923419",
+    "firebase_url": "https://chittoojava-default-rtdb.firebaseio.com",
+    "project_id": "chittoojava",
+    "storage_bucket": "chittoojava.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089648923419:android:525183d65314fdfd80f9be",
+        "android_client_info": {
+          "package_name": "com.example.emptyactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089648923419-nhrpmud9prro5bd1bedo4k5q38snqua4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emptyactivity",
+            "certificate_hash": "7f72ab9b39edcb355a5917b73491f71ba62eb915"
+          }
+        },
+        {
+          "client_id": "1089648923419-buqvt229gi5c9sicdbbsd962v4qdsa35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANEOoq6OyRqlWoCE6M_9AQUVXau4GwUc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089648923419-buqvt229gi5c9sicdbbsd962v4qdsa35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

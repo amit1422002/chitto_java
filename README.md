@@ -1,0 +1,3 @@
+# EmptyActivity
+
+### Android Studio Template
